@@ -263,7 +263,7 @@ define(function (require) {
    * Returns a list of available input sources. This is a wrapper
    * for <a title="MediaDevices.enumerateDevices() - Web APIs | MDN" target="_blank" href=
    *  "https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/enumerateDevices"
-   *  > and it returns a Promise.
+   *  > and it returns a Promise.</a><br>
    *
    * @method  getSources
    * @for p5.AudioIn
